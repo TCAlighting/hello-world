@@ -1,5 +1,5 @@
 # Hello-World
 
-I am trying this for 2nd time 
+I am trying this for a 2nd time 
 
 # wish me LUCK!
